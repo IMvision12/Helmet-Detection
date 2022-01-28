@@ -10,5 +10,6 @@ An AI based helmet detection , which can detect the helmets from the images as w
 # mAP score : 0.76
 
 # Results : 
-![Alt Text](https://github.com/IMvision12/Helmet-Detection/blob/main/outputs/video1.gif)
+ 
 ![Alt Text](https://github.com/IMvision12/Helmet-Detection/blob/main/outputs/video2.gif)
+![Alt Text](https://github.com/IMvision12/Helmet-Detection/blob/main/outputs/video1.gif)
